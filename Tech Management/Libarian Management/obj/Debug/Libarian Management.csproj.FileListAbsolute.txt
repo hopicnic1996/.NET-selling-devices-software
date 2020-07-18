@@ -1,0 +1,32 @@
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\bin\Debug\Libarian Management.exe.config
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\bin\Debug\Libarian Management.exe
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\bin\Debug\Libarian Management.pdb
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Properties.Resources.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.Templates.TemplateForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian Management.csproj.GenerateResource.cache
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian Management.csproj.CoreCompileInputs.cache
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian Management.exe
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian Management.pdb
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.LoginForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.DashboardForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddUserForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.OrderForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddCategoryForm.resources
+C:\Users\Asus F555L\source\repos\Libarian Management\Libarian Management\obj\Debug\Libarian Management.csprojAssemblyReference.cache
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\bin\Debug\Libarian Management.exe.config
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\bin\Debug\Libarian Management.exe
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\bin\Debug\Libarian Management.pdb
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian Management.csprojAssemblyReference.cache
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Properties.Resources.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddCategoryForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.AddUserForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.DashBoardForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.LoginForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.OrderForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian_Management.Screens.Templates.TemplateForm.resources
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian Management.csproj.GenerateResource.cache
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian Management.csproj.CoreCompileInputs.cache
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian Management.exe
+C:\Users\hopic\Downloads\Programming in .NET-SourceCode\Tech Management\Libarian Management\obj\Debug\Libarian Management.pdb

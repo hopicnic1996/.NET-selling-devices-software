@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Libarian_Management.Program">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSet">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Libarian_Management.TechShopDataSet.UsersDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Libarian_Management.TechShopDataSet.RolesRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Delegate Name="Libarian_Management.TechShopDataSet.CategoryRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Libarian_Management.TechShopDataSet.RolesRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.ProductsDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.ProductsRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.CategoryDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Libarian_Management.TechShopDataSet.ProductsRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Libarian_Management.TechShopDataSet.CategoryRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.CategoryRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.RolesDataTable" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.UsersRow" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Delegate Name="Libarian_Management.TechShopDataSet.UsersRowChangeEventHandler" Collapsed="true">
+        <TypeIdentifier />
+      </Delegate>
+      <Class Name="Libarian_Management.TechShopDataSet.RolesRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.ProductsRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+      <Class Name="Libarian_Management.TechShopDataSet.UsersRowChangeEvent" Collapsed="true">
+        <TypeIdentifier />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAAACAACxAAgAJABABAQAAABggWRBgAAAAAAIEADBQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Properties.Resources">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAAAAAAAAAAABEAAAAQAAAEAAAAAAAAAAEIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Properties.Settings">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.AddCategoryForm">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAEACAAIDAABACAAAQCAAAAIAAAgAQAAIAAAAA=</HashCode>
+      <FileName>Screens\AddCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.AddForm">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIJAQBEECAAABAAIACAAAASAEEEYgAAAAAAAIBAAAA=</HashCode>
+      <FileName>Screens\AddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.AddUserForm">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAgAiAAABAQAASAAAATAACAAAAAAQAAAAAEIAA=</HashCode>
+      <FileName>Screens\AddUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.DashBoardForm">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JQKAgWkEACASAAgAAHCEOAMGBFlgBUAIEAWAAAECrgE=</HashCode>
+      <FileName>Screens\DashBoardForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.LoginForm">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAECAgABAACACABBMiAAAAAIACAGAAAAJAgAA=</HashCode>
+      <FileName>Screens\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.OrderForm">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABC0iAAABASAIKAQACCAAghAAAKAAAAAAAAIAA=</HashCode>
+      <FileName>Screens\OrderForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.Screens.Templates.TemplateForm">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Screens\Templates\TemplateForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSetTableAdapters.CategoryTableAdapter">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSetTableAdapters.ProductsTableAdapter">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSetTableAdapters.RolesTableAdapter">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSetTableAdapters.UsersTableAdapter">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EASAAGAAEAAAAAcAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Libarian_Management.TechShopDataSetTableAdapters.TableAdapterManager">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Libarian_Management.TechShopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption" Collapsed="true">
+        <TypeIdentifier />
+      </Enum>
+      <Class Name="Libarian_Management.TechShopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer" Collapsed="true">
+        <TypeIdentifier />
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAQSAAAAFABEEBAAAAMAAgAAACgAAAAAYAAAIEJAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
